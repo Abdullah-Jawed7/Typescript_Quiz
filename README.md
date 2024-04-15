@@ -35,4 +35,4 @@ My GitHub: [Click me](https://github.com/One-andOnly?tab=repositories)
 
 My LinkedIn: [Click me](https://www.linkedin.com/in/abdullah-muhammad-jawed-60b27a282)
 
-# Enjoy converting currencies! 💰
+# Enjoy Typescript_Quiz 
